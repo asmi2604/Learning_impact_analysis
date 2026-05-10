@@ -107,7 +107,7 @@ git clone https://github.com/asmi2604/EdTech-student-outcome-prediction
 
 ---
 
-*Project by Asmita Rajendra | [LinkedIn](your-linkedin-url)*
+*Project by Asmita Rajendra | [LinkedIn](https://www.linkedin.com/in/asmita-r-5b23691a1/)*
 
 
 
