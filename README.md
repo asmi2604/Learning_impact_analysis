@@ -87,7 +87,7 @@ issues, not just student behaviour.
 ---
 
 ## Tableau Dashboard
-🔗 [Link coming soon — publish at public.tableau.com]
+🔗 [Link coming soon]
 
 ---
 
