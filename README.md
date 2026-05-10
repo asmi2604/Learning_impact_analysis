@@ -86,22 +86,6 @@ issues, not just student behaviour.
 
 ---
 
-## How to Reproduce
-```bash
-# 1. Clone the repo
-git clone https://github.com/asmi2604/EdTech-student-outcome-prediction
-
-# 2. Open notebook in Google Colab
-# File → Open → GitHub → paste repo URL
-
-# 3. Download dataset from Kaggle
-# kaggle datasets download -d rocki37/open-university-learning-analytics-dataset
-
-# 4. Run all cells in order
-```
-
----
-
 ## Tableau Dashboard
 🔗 [Link coming soon — publish at public.tableau.com]
 
