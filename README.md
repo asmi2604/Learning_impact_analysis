@@ -1,4 +1,4 @@
-# 🎓 Learning Outcome Prediction & Content Effectiveness Analysis
+# Learning Outcome Prediction & Content Effectiveness Analysis
 
 > Predicting student pass/fail 4+ weeks early using behavioural 
 > engagement data — enabling targeted intervention before outcomes are set.
