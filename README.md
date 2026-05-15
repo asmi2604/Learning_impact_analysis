@@ -4,7 +4,13 @@
 > engagement data — enabling targeted intervention before outcomes are set.
 
 ---
+## Problem Statement
+EdTech platforms globally struggle with student dropout, often identifying 
+at-risk students too late to intervene. This project builds a predictive 
+model to classify students as likely to pass or fail based on early 
+engagement behaviour — giving educators a 4-week intervention window.
 
+---
 
 ## Results at a Glance
 
@@ -17,14 +23,6 @@
 1. `assessments_submitted` — #1 signal by far (importance: 0.18)
 2. `withdrew` — early withdrawal detectable weeks before it happens
 3. `avg_assessment_score` — sustained performance, not just one exam
-
----
-
-## Problem Statement
-EdTech platforms globally struggle with student dropout, often identifying 
-at-risk students too late to intervene. This project builds a predictive 
-model to classify students as likely to pass or fail based on early 
-engagement behaviour — giving educators a 4-week intervention window.
 
 ---
 
@@ -54,6 +52,10 @@ are visible in the data weeks before the formal dropout occurs.
 **4. Pass rate varies 20%+ across modules**  
 Some modules consistently underperform — pointing to content design 
 issues, not just student behaviour.
+
+---
+
+Random Forest gave better predictive performance, especially in ROC-AUC, which indicates stronger class separation capability. However, Logistic Regression was more interpretable and helped identify which learning-content features most influenced student outcomes.
 
 ---
 
