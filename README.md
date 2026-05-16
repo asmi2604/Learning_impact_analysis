@@ -1,4 +1,6 @@
 # Learning Outcome Prediction & Content Effectiveness Analysis
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+
 
 > Predicting student pass/fail 4+ weeks early using behavioural 
 > engagement data — enabling targeted intervention before outcomes are set.
