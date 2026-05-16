@@ -1,6 +1,9 @@
 # Learning Outcome Prediction & Content Effectiveness Analysis
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
-
+[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E.svg)](https://scikit-learn.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.13%2B-4C72B0.svg)](https://seaborn.pydata.org/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14%2B-8CAAE6.svg)](https://www.statsmodels.org/)
 
 > Predicting student pass/fail 4+ weeks early using behavioural 
 > engagement data — enabling targeted intervention before outcomes are set.
